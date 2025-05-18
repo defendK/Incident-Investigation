@@ -30,7 +30,6 @@ Firewall Configuration
 <div> <img src="https://img.shields.io/badge/-PfSense-00AABB?&style=for-the-badge&logo=PfSense&logoColor=white" /> <img src="https://img.shields.io/badge/-IPTables-555555?&style=for-the-badge&logo=Linux&logoColor=white" /> </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
