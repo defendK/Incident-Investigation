@@ -42,5 +42,6 @@ Operating Systems & Platforms
 
 ## Projects
 
-<a href="https://github.com/defendK/Digital-Forensics-Drive-Investigation/tree/main">Digital Forensics Case Report</a>
 <a href="https://github.com/defendK/IncidentInvestigation-Scenario">Ransomware Infection Analysis</a>
+<a href="https://github.com/defendK/Digital-Forensics-Drive-Investigation/tree/main">Digital Forensics Case Report</a>
+
