@@ -12,7 +12,7 @@ My journey in cybersecurity has provided me with practical experience in analyzi
 
 | Skill                                            |     Associated Project     |
 |--------------------------------------------------|----------------------------|
-| Network Traffic Analysis and Packet Capture	     | 
+| Network Traffic Analysis and Packet Capture	     | <a href="https://github.com/defendK/IncidentInvestigation-Scenario">Ransomware Infection Analysis</a> |
 | Digital Forensics and Drive Image Analysis	     | <a href="https://github.com/defendK/Digital-Forensics-Drive-Investigation/tree/main">Digital Forensics Case Report</a> |
 | Penetration Testing and Vulnerability Assessment | 
 | Incident Response and Threat Investigation	     | 
